@@ -8,7 +8,8 @@
 ## What we are doing 🙋‍
 
 
-<a href=#><img src="contributions.svg"></a>
+![](https://raw.githubusercontent.com/thegrtnx/thegrtnx/e7fd00d1af5d6691bb285051ccf91f619abdccb1/contributions.svg)
+
 
 UrbanPay is a universal payment platform for people to send and receive money online and offline from any where in the world using their Urban tag, email, mobile number, ussd etc.
 
