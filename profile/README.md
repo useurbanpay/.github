@@ -23,4 +23,4 @@ UrbanPay is a universal payment platform for people to send and receive money on
 
 📫 Give us a follow on our social media handles: 
 
-<a href="https://twitter.com/useurbanpay"><img align="left" alt="UrbanPay on Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /></a><p align="left"> <a href="https://www.github.com/thegrtnx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/thegrtnx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<a href="https://twitter.com/useurbanpay"><img align="left" alt="UrbanPay on Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /></a>
