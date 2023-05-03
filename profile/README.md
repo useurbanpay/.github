@@ -1,6 +1,6 @@
 ## Hi there, We are UrbanPay 👋
 
-![](https://github.com/useurbanpay/useurbanpay/blob/main/img/img.png)
+![](https://avatars.githubusercontent.com/u/132407424?s=400&u=444bd8b3901643b9722b2f0554668208fab80275&v=4)
 
 
 ## What we are doing 🙋‍
