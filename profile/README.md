@@ -1,4 +1,4 @@
-## Hi there, We are UrbanPay 👋
+## Hi there, We are UrbanPay ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ![](https://avatars.githubusercontent.com/u/132407424?s=400&u=444bd8b3901643b9722b2f0554668208fab80275&v=4)
 
@@ -6,6 +6,9 @@
 
 
 ## What we are doing 🙋‍
+
+
+<a href=#><img src="contributions.svg"></a>
 
 UrbanPay is a universal payment platform for people to send and receive money online and offline from any where in the world using their Urban tag, email, mobile number, ussd etc.
 
